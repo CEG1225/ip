@@ -1,3 +1,4 @@
 
 
-git add -A && git commit -m 'genxin'  && git push origin master
+git add -A && git commit -m 'genxin'  &&  git push -f origin master
+
