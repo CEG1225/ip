@@ -10,3 +10,8 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 154.12.191.87,10809,80,FALSE,SIN,Asia Pacific,Singapore,9,14.53
 154.17.21.142,55173,0,TRUE,LAX,North America,Los Angeles,11,11.67
 154.17.2.125,39203,443,TRUE,LAX,North America,Los Angeles,9,9.1
+156.251.183.226,34147,443,TRUE,SIN,Asia Pacific,Singapore,4,14.71
+103.234.53.22,1450,443,TRUE,HKG,Asia Pacific,Hong Kong,13,14.54
+23.225.64.71,11006,0,TRUE,HKG,Asia Pacific,Hong Kong,13,12.46
+103.235.18.153,10020,0,TRUE,HKG,Asia Pacific,Hong Kong,13,11.89
+156.251.176.48,13519,0,TRUE,HKG,Asia Pacific,Hong Kong,8,9.95
